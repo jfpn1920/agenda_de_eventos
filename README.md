@@ -92,6 +92,10 @@
 
 <p align="justify">Las operaciones <b>crud</b> se implementaron mediante las opciones del menú principal, permitiendo administrar los eventos registrados. La operación <b>crear</b> corresponde a <b>registrar evento</b>, donde se introducen los datos de un nuevo registro; <b>leer</b> se realiza mediante las opciones <b>buscar evento, listar eventos y ver detalles</b>; <b>actualizar</b> corresponde a <b>editar evento</b>, donde se modifican los datos de un evento existente; y <b>eliminar</b> se realiza mediante la opción <b>eliminar evento</b>. Estas operaciones utilizan variables, arreglos, condicionales y ciclos para gestionar la información almacenada temporalmente durante la ejecución del programa.</p>
 
+<h2 align="center">Diagrama de flujo del proyecto</h2>
+
+<img src="./agenda_de_eventos.png" alt="Diagrama de flujo de Agenda de Contactos" width="100%">
+
 <h2 align="center">🛡️ Validaciones del programa</h2>
 
 ### 📭 No existen eventos registrados
